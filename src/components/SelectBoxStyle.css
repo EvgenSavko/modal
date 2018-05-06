@@ -1,0 +1,8 @@
+#selectBox {
+  display: flex; /* применить flex */
+  flex-flow: row nowrap; /* в ряд || в столбик && перес || без переноса flex */
+  justify-content: space-around; /* выравнивание по оси x flex-start, center, flex-end, space-between, space-around */
+  align-items: center; /* выравнивание по оси y stretch, flex-start, center, flex-end*/
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
